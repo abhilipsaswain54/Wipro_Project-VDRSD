@@ -881,28 +881,9 @@ See [Stage 6 – Final Implementation & Presentation](#stage-6--final-implementa
 
 ---
 
-## Individual Project Assessment Criteria
-
-> **Important:** Students must show continuous progress at every stage.
-
-Each stage includes:
-
-| Criterion | Evidence |
-| :--- | :--- |
-| **Proper documentation** | This README, `docs/` folder, inline code comments |
-| **Git commits and version control** | Feature branches, meaningful commit messages, clean history |
-| **Progress evidence** | Stage-wise task completion tracking in this README |
-| **Demonstration/presentation** | Working prototype at each stage |
-| **Clear roadmap for next stage** | "Roadmap →" sections after each stage |
-
-> The objective is not only to complete the project, but to demonstrate a **professional software development process** from **requirements → design → implementation → testing → final delivery**.
-
----
-
 ## License
 
 This project is developed as part of the Wipro Embedded Track training program.
 
----
 
-*Last Updated: September 29, 2026*
+
